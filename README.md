@@ -17,7 +17,7 @@ do projeto Oracle One.
   ##
   ##
 <h5>
-  Site para página: https://web-portfolio-rgdqrt35a-gabsperes-projects.vercel.app/
+  Acesse a página clicando <a href="https://web-portfolio-rgdqrt35a-gabsperes-projects.vercel.app/">aqui<a/> 
 </h5>
 
 ![image](https://github.com/GabsPere/web-portfolio/assets/142684077/682e518a-62ac-4475-9f15-e9e908894cd9)
