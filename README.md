@@ -1,10 +1,9 @@
-
-  
-<h3>
+<h2 align="center">Web Portfolio</h2>
+<p>
   Nessa pasta está o código HTML e CSS utilizado para criar uma página
 do meu portfólio. Os códigos desenvolvidos foram realizados através das aulas
 do projeto Oracle One.
-<h3>
+</p>
 
 <h4>Linguagens utilizadas:
 <br>
@@ -13,9 +12,7 @@ do projeto Oracle One.
 </h4>
 
 <div>
-  
-  ##
-  ##
+  <hr>
 <h5>
   Acesse a página clicando <a href="https://web-portfolio-rgdqrt35a-gabsperes-projects.vercel.app/">aqui<a/> 
 </h5>
